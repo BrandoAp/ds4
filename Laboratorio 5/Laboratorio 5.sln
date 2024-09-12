@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 5", "Laboratorio 5\Laboratorio 5.csproj", "{F1A70403-6BC4-459D-9F30-57EF95FE7B0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 5", "Laboratorio 5\Laboratorio 5.csproj", "{F1A70403-6BC4-459D-9F30-57EF95FE7B0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5-1", "Lab5-1\Lab5-1.csproj", "{F728DBD5-AD51-4BF4-B121-F24C5F07209D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5-1", "Lab5-1\Lab5-1.csproj", "{F728DBD5-AD51-4BF4-B121-F24C5F07209D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5-2", "Lab5-2\Lab5-2.csproj", "{4E676F1F-E0D7-4A11-8102-87F3BBFC6D53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5-2", "Lab5-2\Lab5-2.csproj", "{4E676F1F-E0D7-4A11-8102-87F3BBFC6D53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5-3", "Lab5-3\Lab5-3.csproj", "{593E8A01-9870-49D7-A731-75FA595A001A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5-3", "Lab5-3\Lab5-3.csproj", "{593E8A01-9870-49D7-A731-75FA595A001A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5-4", "Lab5-4\Lab5-4.csproj", "{7853D116-DF58-4E25-8384-0EF1916C2D45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5-4", "Lab5-4\Lab5-4.csproj", "{7853D116-DF58-4E25-8384-0EF1916C2D45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5-5", "Lab5-5\Lab5-5.csproj", "{C3081F89-AA0F-42FB-A7DB-F1F1B3483AE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5-5", "Lab5-5\Lab5-5.csproj", "{C3081F89-AA0F-42FB-A7DB-F1F1B3483AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5-6", "Lab5-6\Lab5-6.csproj", "{716D2B68-3F9E-4CB3-B6E9-57D035E68C37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C3081F89-AA0F-42FB-A7DB-F1F1B3483AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3081F89-AA0F-42FB-A7DB-F1F1B3483AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3081F89-AA0F-42FB-A7DB-F1F1B3483AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716D2B68-3F9E-4CB3-B6E9-57D035E68C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716D2B68-3F9E-4CB3-B6E9-57D035E68C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716D2B68-3F9E-4CB3-B6E9-57D035E68C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716D2B68-3F9E-4CB3-B6E9-57D035E68C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
