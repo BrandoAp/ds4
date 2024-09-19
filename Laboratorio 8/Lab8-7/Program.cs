@@ -7,7 +7,7 @@
 }
 
 
-sealed class ClaseBase
+class ClaseBase
 {
     public void test()
     {
@@ -15,11 +15,6 @@ sealed class ClaseBase
     }
 
     public void moreTesting()
-    {
-
-    }
-
-    class ClaseHijo: ClaseBase
     {
 
     }
